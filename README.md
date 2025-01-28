@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ramesh!  
 ### 💻 Full-Stack Developer | 🚀 Innovator | 🌟 Creator  
 
-![Profile Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub+Profile!)
+![Profile Banner](https://github.com/lovelyram0143)
 
 ---
 
